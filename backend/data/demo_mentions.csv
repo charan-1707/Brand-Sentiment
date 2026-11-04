@@ -1,0 +1,17 @@
+text,sentiment,author,source,posted_at,brand
+"Brand delivery took forever and the box arrived damaged, furious about this",negative,delivery_fan,reddit,2026-10-18 09:12:00,Brand
+"Shoutout to Brand support, they resolved my issue in minutes",positive,helper_kim,twitter,2026-10-18 11:02:00,Brand
+"Brand refused my refund even though the product is defective",negative,refund_ravi,facebook,2026-10-18 14:45:00,Brand
+"Thinking of buying from Brand, how is the quality",neutral,curious_case,instagram,2026-10-18 16:20:00,Brand
+"Brand quality is awful for the price paid, regret buying",negative,quality_q,reddit,2026-10-19 08:33:00,Brand
+"Best value for money right now, Brand is totally worth it",positive,value_v,instagram,2026-10-19 10:05:00,Brand
+"Brand support ignored my complaint for a week, pathetic",negative,support_sam,twitter,2026-10-19 13:47:00,Brand
+"Brand keeps getting better with every release, love it",positive,early_adopter,reddit,2026-10-19 15:11:00,Brand
+"Brand package arrived damaged after long shipping time",negative,courier_cara,facebook,2026-10-20 09:25:00,Brand
+"Brand performance is smooth after the latest update",positive,perf_priya,instagram,2026-10-20 12:40:00,Brand
+"Brand delivery took forever and the box arrived damaged again",negative,delivery_dan,reddit,2026-10-20 15:15:00,Brand
+"Brand product broke within a week, really disappointed",negative,broken_bob,twitter,2026-10-21 08:05:00,Brand
+"Three years using Brand products and still zero complaints",positive,long_time_luis,reddit,2026-10-21 11:38:00,Brand
+"Brand refused my exchange request even though we paid extra",negative,exchange_emma,facebook,2026-10-22 09:50:00,Brand
+"Brand customer service is the best I have ever experienced",positive,service_gary,twitter,2026-10-22 13:22:00,Brand
+"Reading Brand reviews before deciding, opinions seem mixed",neutral,mixed_mia,instagram,2026-10-23 10:15:00,Brand

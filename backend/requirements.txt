@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-jose[cryptography]
+apscheduler
+vaderSentiment
+pandas
+reportlab
+python-multipart
+httpx
+cryptography
+scikit-learn
+joblib
+pytest

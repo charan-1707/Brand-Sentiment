@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.7979,
+  "trained_at": "2026-10-09T06:42:34",
+  "n_samples": 200000,
+  "classes": [
+    "negative",
+    "positive"
+  ],
+  "n_features": 15000,
+  "source_file": "kaggle_twitter.csv",
+  "neutral_threshold": 0.6
+}

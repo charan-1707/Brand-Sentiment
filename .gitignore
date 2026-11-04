@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.log
+
+# Local env / secrets
+.env
+backend/.env
+
+# Generated / local-only data
+backend/generated_reports/
+backend/data/kaggle_twitter.csv
+backend/data/s140/
+
+# Frontend
+node_modules/
+dist/
+frontend/dev.log
+frontend/dev.err.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
